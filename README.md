@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+![image](https://user-images.githubusercontent.com/39607989/123596278-d3a0b600-d7a6-11eb-8358-fe8476368410.png)
+![image](https://user-images.githubusercontent.com/39607989/123596611-414ce200-d7a7-11eb-86e4-241637e20a66.png)
+![image](https://user-images.githubusercontent.com/39607989/123596623-4578ff80-d7a7-11eb-87b0-e929d8568cc8.png)
+![image](https://user-images.githubusercontent.com/39607989/123596631-4873f000-d7a7-11eb-832d-2f4a96d6b94e.png)
+![image](https://user-images.githubusercontent.com/39607989/123596646-4c077700-d7a7-11eb-959f-590ac71138fe.png)
+![image](https://user-images.githubusercontent.com/39607989/123596656-4e69d100-d7a7-11eb-8814-6c8820295b18.png)
+
+
 
 ## Deploy Steps
 
